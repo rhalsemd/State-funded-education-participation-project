@@ -1,6 +1,6 @@
 # Goorm-project
 
-구름 국비 사업에서 진행한 자연어처리 과정에서 참여했던 프로젝트 2개를 올렸습니다.
+구름 국비 사업에서 진행한 자연어처리 과정에서 참여했던 프로젝트 3개를 올렸습니다.
 
 1. 문장분류기 프로젝트로 영어 문장에 대한 이진 분류 주제를 Baseline코드를 통해 어느 조가 가장 많이 Kaggle에서 점수를 올리는 것에 관한 프로젝트 입니다.
 저희 조는 Sentimental sentence를 BERT 모델을 기반하여 학습시켜 sentimental classification 모델을 구축,BERT를 fine-tuning 하는 방식으로 진행했습니다.
