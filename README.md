@@ -25,11 +25,11 @@ Docker를 이용한 개발환경 구축 및 이미지화
 
 이 프로젝트는 한국어 지문을 통해 지문 안에서 답을 찾아내는 것을 Kaggle을 통해 진행했ㅅ브니다.
 저희 조의 활용 라이브러리 및 프레임워크, 모델은 아래와 같습니다.
-Huggingface Transformers
+- Huggingface Transformers
 - KoELECTRA
 - KoBigBird
-WandB
-Sweep
+- WandB
+- Sweep
 
 이 프로젝트에서 저는 아래와 같은 역할을 하였습니다.
 - 모델 파인튜닝 및 성능 개선
